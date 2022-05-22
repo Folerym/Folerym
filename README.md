@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Folerym
 - 👀 actually doing pc optimization on discord
-- ✨ Folerym#5559
+- ✨ Folerym#1991
 
 <!---
 Folerym/Folerym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
