@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Folerym
-- 👀 actually doing pc optimization on discord
+- 👀 Learning batch and how to create custom os !
 - ✨ Folerym#1991
 
 <!---
