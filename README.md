@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Folerym
-- 👀 Learning batch and how to create custom os !
-- ✨ Folerym#1991
+<h1 align="center">Hi 👋, I'm Zusier</h1>
+<h3 align="center">A Owner of Monarch.win, tweaking enthousiast.</h3>
 
-<!---
-Folerym/Folerym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zusier" alt="zusier" /></a> </p> -->
+
+- 🔭 I’m currently working on [AtlasOS](https://github.com/Atlas-OS/Atlas) and [wlrs](https://github.com/zusier/wlrs).
+
+- 🌱 I’m currently learning **Valorant**.
+
+- 
